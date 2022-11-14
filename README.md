@@ -18,7 +18,11 @@
 # TOOLS:
 ## [OSINT](https://osintframework.com/)
 ## [Internet Archive](https://archive.org/web/)
+## [NIST](https://nvd.nist.gov/search)
+## [Exploit Database](https://www.exploit-db.com/)
+## [Rapid7 -Vulnerability & Exploit Database](https://www.rapid7.com/db/)
 ## [urlscan](https://urlscan.io/)
+## [shodan](https://www.shodan.io/)
 ## [Nmap](https://nmap.org/)
 ## [Metasploit](https://www.metasploit.com/get-started)
 ## [Kali](https://www.kali.org/get-kali/)
