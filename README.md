@@ -36,6 +36,7 @@
 ## [MD5](https://md5.gromweb.com/)
 ## [Encode/Decode](https://toolbox.googleapps.com/apps/encode_decode/)
 ## [Hash.com](https://hashes.com/en/decrypt/hash)
+## [Free Password Hash Cracker](https://crackstation.net/)
 
 ## [VirusTotal](https://www.virustotal.com/gui/file/a2a4a8436da64246ade25c702a6677ebbb14fc2bd0c6f02d2d7b8d2046e59ecb?nocache=1)
 ## [DFIR Report](https://thedfirreport.com/)
