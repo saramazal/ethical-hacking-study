@@ -1,8 +1,11 @@
 # Ethical Hacking Study:
 
 ## [TryHackMe](https://tryhackme.com)
+### [Free THM rooms](https://github.com/saramazal/ethical-hacking-study/blob/main/free-thm-rooms.md)
+
 ## [HackTheBox](https://academy.hackthebox.com/login)
 ## [TCM Academy](https://academy.tcm-sec.com/courses)
+## [free TCM Academy Path](https://academy.tcm-sec.com/p/learn-penetration-testing-free)
 ## [PortSwigger](https://portswigger.net/web-security)
 ## [Linux](https://www.linux.org/)
 ## [LinuxLearning](https://learning.lpi.org/en/learning-materials/030-100/031/031.1/031.1_01/)
@@ -25,6 +28,7 @@
 ## [shodan](https://www.shodan.io/)
 ## [Nmap](https://nmap.org/)
 ## [Metasploit](https://www.metasploit.com/get-started)
+## [Metasploit free course](https://www.offensive-security.com/metasploit-unleashed/)
 ## [Kali](https://www.kali.org/get-kali/)
 ## [Parrot](https://www.parrotsec.org/)
 ## [Vbox](https://www.virtualbox.org/)
