@@ -22,6 +22,7 @@
 ## [OSINT](https://osintframework.com/)
 ## [Internet Archive](https://archive.org/web/)
 ## [NIST](https://nvd.nist.gov/search)
+## [CVE](https://cve.mitre.org/)
 ## [Exploit Database](https://www.exploit-db.com/)
 ## [Rapid7 -Vulnerability & Exploit Database](https://www.rapid7.com/db/)
 ## [urlscan](https://urlscan.io/)
