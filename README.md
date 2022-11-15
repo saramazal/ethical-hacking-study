@@ -9,7 +9,7 @@
 * [Hacker Methodology](#hacker-methodology)
 * [Careers in Cyber](#careers-in-cyber)
 * [Books](#books)
-* [YouTobe](#you-tube)
+* [YouTube](#youtube)
 
 
 ## Sites:
