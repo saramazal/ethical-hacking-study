@@ -1,6 +1,13 @@
-# Ethical Hacking🤺
+# Ethical Hacking🤺  (_project in progress_)
 🏆 [My TryHackMe Profile](https://tryhackme.com/p/Mazal)
 
+
+## Table of contents:
+
+* [Sites](#sites)
+* [Tools](#tools)
+* [Hacker Methodology](#hacker-methodology)
+* [Careers in Cyber](#careers-in-cyber)
 
 
 ## Sites:
@@ -47,3 +54,5 @@
 - [any.run](https://any.run/)
 
 ## [Hacker Methodology](https://github.com/saramazal/ethical-hacking-study/blob/main/hacker-methodology.md)
+
+## Careers in Cyber
