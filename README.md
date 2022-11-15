@@ -8,6 +8,8 @@
 * [Tools](#tools)
 * [Hacker Methodology](#hacker-methodology)
 * [Careers in Cyber](#careers-in-cyber)
+* [Books](#books)
+* [YouTobe](#you-tube)
 
 
 ## Sites:
@@ -56,3 +58,7 @@
 ## [Hacker Methodology](https://github.com/saramazal/ethical-hacking-study/blob/main/hacker-methodology.md)
 
 ## Careers in Cyber
+
+## Books
+
+## YouTube
