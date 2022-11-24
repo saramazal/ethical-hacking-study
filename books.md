@@ -1,0 +1,1 @@
+- [Hack Like a GOD](https://www.amazon.com/How-Hack-Like-GOD-scenarios/dp/1521232687)
