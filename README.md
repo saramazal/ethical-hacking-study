@@ -60,6 +60,6 @@
 
 ## Careers in Cyber
 
-## Books
+## [Books](https://github.com/saramazal/ethical-hacking-study/blob/main/books.md)
 
 ## [YouTube](https://github.com/saramazal/ethical-hacking-study/blob/main/youtube.md)
