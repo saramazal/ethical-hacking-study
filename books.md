@@ -1,1 +1,2 @@
 - [Hack Like a GOD](https://www.amazon.com/How-Hack-Like-GOD-scenarios/dp/1521232687)
+- [10 Best Ethical Hacking Books for Beginner](https://hackr.io/blog/best-hacking-books)
