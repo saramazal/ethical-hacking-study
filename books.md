@@ -1,2 +1,3 @@
 - [Hack Like a GOD](https://www.amazon.com/How-Hack-Like-GOD-scenarios/dp/1521232687)
 - [10 Best Ethical Hacking Books for Beginner](https://hackr.io/blog/best-hacking-books)
+- [PROGRAMMING LANGUAGE FOR HACKING](https://drive.google.com/file/d/1t8PHpHLoeYhkkpZ6O5Y9kGwb6KvtwXq0/view)
