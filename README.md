@@ -40,6 +40,7 @@
 - [Rapid7 -Vulnerability & Exploit Database](https://www.rapid7.com/db/)
 - [urlscan](https://urlscan.io/)
 - [shodan](https://www.shodan.io/)
+- [';--have i been pwned?](https://haveibeenpwned.com/)
 - [Nmap](https://nmap.org/)
 - [Metasploit](https://www.metasploit.com/get-started)
 - [Metasploit free course](https://www.offensive-security.com/metasploit-unleashed/)
