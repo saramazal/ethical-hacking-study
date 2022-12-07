@@ -39,6 +39,8 @@
 - [Exploit Database](https://www.exploit-db.com/)
 - [Rapid7 -Vulnerability & Exploit Database](https://www.rapid7.com/db/)
 - [urlscan](https://urlscan.io/)
+- [InquestLab](https://labs.inquest.net/)
+- [Email Reputation](https://emailrep.io/ )
 - [shodan](https://www.shodan.io/)
 - [';--have i been pwned?](https://haveibeenpwned.com/)
 - [Nmap](https://nmap.org/)
