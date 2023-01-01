@@ -15,6 +15,7 @@
 ## Sites:
 - [TryHackMe](https://tryhackme.com)
 - [Free THM rooms](https://github.com/saramazal/ethical-hacking-study/blob/main/free-thm-rooms.md)
+- [Security Blue Team + free 6 courses](https://securityblue.team/)
 - [HackTheBox](https://academy.hackthebox.com/login)
 - [TCM Academy](https://academy.tcm-sec.com/courses)
 - [free TCM Academy Path](https://academy.tcm-sec.com/p/learn-penetration-testing-free)
