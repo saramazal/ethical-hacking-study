@@ -51,6 +51,9 @@
 - [Parrot](https://www.parrotsec.org/)
 - [Vbox](https://www.virtualbox.org/)
 
+- [Hash Type Identifier](https://hashes.com/en/tools/hash_identifier)
+- [Hash-identifier](https://gitlab.com/kalilinux/packages/hash-identifier/-/tree/kali/master) 
+- [John The Ripper](https://github.com/openwall/john/blob/bleeding-jumbo/doc/INSTALL)
 - [MD5](https://md5.gromweb.com/)
 - [Encode/Decode](https://toolbox.googleapps.com/apps/encode_decode/)
 - [Hash.com](https://hashes.com/en/decrypt/hash)
