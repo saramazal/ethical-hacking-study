@@ -8,7 +8,7 @@
 * [Tools](#tools)
 * [Hacker Methodology](#hacker-methodology)
 * [Careers in Cyber](#careers-in-cyber)
-* [Books](#books)
+* [Books&Blogs](#books)
 * [YouTube](#youtube)
 
 
@@ -70,5 +70,6 @@
 ## Careers in Cyber
 
 ## [Books](https://github.com/saramazal/ethical-hacking-study/blob/main/books.md)
+- [Have you wondered what it takes to be an ethical hacker?](https://www.freecodecamp.org/news/how-to-become-an-ethical-hacker/)
 
 ## [YouTube](https://github.com/saramazal/ethical-hacking-study/blob/main/youtube.md)
