@@ -26,3 +26,8 @@
 * [Professor Messer ](https://www.youtube.com/c/professormesser)
 * [Null Byte](https://www.youtube.com/c/NullByteWHT)
 * [Mr.RobotMusic](https://www.youtube.com/watch?v=F85aHwez4N4&list=OLAK5uy_mq2QBfEuHMTEDHztHc-WuFKsB-N9Asf9s)
+* [OSINT Dojo](https://www.youtube.com/@OSINTDojo/featured) - "Want to learn how to get into OSINT?
+
+The OSINT Dojo is a free project that aims to guide those new to Open Source Intelligence (OSINT) through the first steps of their OSINT journey. This Youtube channel is where we will upload training content, including OSINT tools, methodology, and challenges to both improve and test your skills.
+
+You can learn more about the OSINT Dojo over on our website: https://www.osintdojo.com"
