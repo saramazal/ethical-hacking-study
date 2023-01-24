@@ -18,6 +18,8 @@
 - [Security Blue Team + free 6 courses](https://securityblue.team/)
 - [HackTheBox](https://academy.hackthebox.com/login)
 - [TCM Academy](https://academy.tcm-sec.com/courses)
+- [Professor Messer](https://www.professormesser.com/) - "Welcome to Professor Messer! Our mission is to provide quality technology information and training, including specialized training courses for CompTIA A+, CompTIA Network+, and CompTIA Security+. Our training courses have become popular study resources for some of the IT industry’s most popular certifications."
+- [CompTIA Security+](https://securityplus.training/) - "Pass the CompTIA Security+ SY0-601 Certification Exam."
 - [free TCM Academy Path](https://academy.tcm-sec.com/p/learn-penetration-testing-free)
 - [PortSwigger](https://portswigger.net/web-security)
 - [Linux](https://www.linux.org/)
