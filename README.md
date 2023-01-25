@@ -37,7 +37,7 @@
 - [Cybrary](https://www.cybrary.it/)
 
 ## Tools:
-- [OSINT](https://osintframework.com/)
+- [OSINT](https://osintframework.com/) - OSINT framework focused on gathering information from free tools or resources.
 - [Internet Archive](https://archive.org/web/)
 - [NIST](https://nvd.nist.gov/search)
 - [CVE](https://cve.mitre.org/)
