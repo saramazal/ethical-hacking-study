@@ -7,7 +7,7 @@
 * [Sites](#sites)
 * [Tools](#tools)
 * [Hacker Methodology](#hacker-methodology)
-* [Careers in Cyber](#careers-in-cyber)
+* [Certification](#certification)
 * [Books&Blogs](#books)
 * [YouTube](#youtube)
 
@@ -34,7 +34,7 @@
 - [PentesterLab](https://pentesterlab.com/)
 - [Guru99-free EH Tutorials](https://www.guru99.com/ethical-hacking-tutorials.html)
 - [rootme](https://www.root-me.org/?lang=en)
-- [OFFENSIVE security](https://www.offensive-security.com/pwk-oscp/)
+- [OFFENSIVE security](https://www.offensive-security.com)
 - [Cybrary](https://www.cybrary.it/)
 
 ## Tools:
@@ -71,9 +71,13 @@
 
 ## [Hacker Methodology](https://github.com/saramazal/ethical-hacking-study/blob/main/hacker-methodology.md)
 
-## Careers in Cyber
+## Certification
+- [Become a
+Certified Ethical Hacker (C|EH)
+](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)
+- [OSCP Certification](https://www.offensive-security.com/courses/pen-200/)
 
-## [Books](https://github.com/saramazal/ethical-hacking-study/blob/main/books.md)
+## [Books & Blogs](https://github.com/saramazal/ethical-hacking-study/blob/main/books.md)
 - [Have you wondered what it takes to be an ethical hacker?](https://www.freecodecamp.org/news/how-to-become-an-ethical-hacker/)
 
 ## [YouTube](https://github.com/saramazal/ethical-hacking-study/blob/main/youtube.md)
