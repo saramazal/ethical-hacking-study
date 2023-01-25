@@ -22,7 +22,7 @@
 - [free TCM Academy Path](https://academy.tcm-sec.com/p/learn-penetration-testing-free)
 - [PortSwigger](https://portswigger.net/web-security)
 - [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/)
-- [Linux]([https://www.linux.org/](https://www.linux.org/pages/download/))
+- [Linux](https://www.linux.org/pages/download/) - 25 popular Linux distributions.
 - [LinuxLearning](https://learning.lpi.org/en/learning-materials/030-100/031/031.1/031.1_01/)
 - [Kali](https://www.kali.org/get-kali/)
 - [Parrot Security Edition](https://parrotsec.org/download/)
