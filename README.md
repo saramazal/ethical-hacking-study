@@ -43,7 +43,9 @@
 - [CVE](https://cve.mitre.org/)
 - [Exploit Database](https://www.exploit-db.com/)
 - [Rapid7 -Vulnerability & Exploit Database](https://www.rapid7.com/db/)
+
 - [urlscan](https://urlscan.io/)
+- [Nikto](https://www.kali.org/tools/nikto/) - Nikto is a pluggable web server and CGI scanner written in Perl, using rfp’s LibWhisker to perform fast security or informational checks.
 - [InquestLab](https://labs.inquest.net/)
 - [Email Reputation](https://emailrep.io/ )
 - [shodan](https://www.shodan.io/)
