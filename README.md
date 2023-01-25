@@ -53,6 +53,7 @@
 - [Parrot](https://www.parrotsec.org/)
 - [Vbox](https://www.virtualbox.org/)
 
+- [CyberChef](https://cyberchef.org/)
 - [Hash Type Identifier](https://hashes.com/en/tools/hash_identifier)
 - [Hash-identifier](https://gitlab.com/kalilinux/packages/hash-identifier/-/tree/kali/master) 
 - [John The Ripper](https://github.com/openwall/john/blob/bleeding-jumbo/doc/INSTALL)
