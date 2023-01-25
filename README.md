@@ -24,6 +24,7 @@
 - [PortSwigger](https://portswigger.net/web-security)
 - [Linux](https://www.linux.org/)
 - [LinuxLearning](https://learning.lpi.org/en/learning-materials/030-100/031/031.1/031.1_01/)
+- [Parrot Security Edition](https://parrotsec.org/download/)
 - [OWASP](https://owasp.org/#)
 - [CISCO](https://www.netacad.com/courses/cybersecurity)
 - [FFC](https://www.freecodecamp.org/learn/information-security/)
