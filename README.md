@@ -22,6 +22,7 @@
 - [CompTIA Security+](https://securityplus.training/) - "Pass the CompTIA Security+ SY0-601 Certification Exam."
 - [free TCM Academy Path](https://academy.tcm-sec.com/p/learn-penetration-testing-free)
 - [PortSwigger](https://portswigger.net/web-security)
+- [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/)
 - [Linux](https://www.linux.org/)
 - [LinuxLearning](https://learning.lpi.org/en/learning-materials/030-100/031/031.1/031.1_01/)
 - [Parrot Security Edition](https://parrotsec.org/download/)
