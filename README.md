@@ -55,6 +55,9 @@
 - [Metasploit free course](https://www.offensive-security.com/metasploit-unleashed/)
 - [Kali](https://www.kali.org/get-kali/)
 - [Parrot](https://www.parrotsec.org/)
+- [Brave](https://brave.com/download/)
+- [Tor](https://www.torproject.org/download/)
+- [vmware](https://www.vmware.com/)
 - [Vbox](https://www.virtualbox.org/)
 
 - [CyberChef](https://cyberchef.org/)
