@@ -44,7 +44,11 @@
 - [Exploit Database](https://www.exploit-db.com/)
 - [Rapid7 -Vulnerability & Exploit Database](https://www.rapid7.com/db/)
 
+- [TweetDuck](https://tweetduck.chylex.com/)
+- [Tineye](https://tineye.com/)
 - [urlscan](https://urlscan.io/)
+- [Cover Your Tracks](https://firstpartysimulator.org/)
+- [BrowserLeaks](https://browserleaks.com/)
 - [Nikto](https://www.kali.org/tools/nikto/) - Nikto is a pluggable web server and CGI scanner written in Perl, using rfp’s LibWhisker to perform fast security or informational checks.
 - [InquestLab](https://labs.inquest.net/)
 - [Email Reputation](https://emailrep.io/ )
@@ -84,5 +88,6 @@ Certified Ethical Hacker (C|EH)
 
 ## [Books & Blogs](https://github.com/saramazal/ethical-hacking-study/blob/main/books.md)
 - [Have you wondered what it takes to be an ethical hacker?](https://www.freecodecamp.org/news/how-to-become-an-ethical-hacker/)
+- [IntelTechniques](https://inteltechniques.com/index.html)
 
 ## [YouTube](https://github.com/saramazal/ethical-hacking-study/blob/main/youtube.md)
