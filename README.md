@@ -8,7 +8,7 @@
 * [Tools](#tools)
 * [Hacker Methodology](#hacker-methodology)
 * [Certification](#certification)
-* [Books&Blogs](#books)
+* [Books&Blogs](#booksblogs)
 * [YouTube](#youtube)
 
 
@@ -86,7 +86,7 @@ Certified Ethical Hacker (C|EH)
 - [CompTIA Security+](https://securityplus.training/) - "Pass the CompTIA Security+ SY0-601 Certification Exam."
 - [OSCP Certification](https://www.offensive-security.com/courses/pen-200/)
 
-## [Books & Blogs](https://github.com/saramazal/ethical-hacking-study/blob/main/books.md)
+## [Books&Blogs](https://github.com/saramazal/ethical-hacking-study/blob/main/books.md)
 - [Have you wondered what it takes to be an ethical hacker?](https://www.freecodecamp.org/news/how-to-become-an-ethical-hacker/)
 - [IntelTechniques](https://inteltechniques.com/index.html)
 
