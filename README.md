@@ -2,9 +2,9 @@
 🏆 [My TryHackMe Profile](https://tryhackme.com/p/Mazal)
 <br>
 <br>
-![https://github.com/saramazal/ethical-hacking-study/network/members](https://img.shields.io/github/forks/saramazal/ethical-hacking-study?color=aqua) &nbsp;
-![https://github.com/saramazal/ethical-hacking-study/stargazers](https://img.shields.io/github/stars/saramazal/ethical-hacking-study?color=pink) &nbsp;
-![https://github.com/saramazal/ethical-hacking-study/watchers](https://img.shields.io/github/watchers/saramazal/ethical-hacking-study?color=coral) &nbsp;
+![https://github.com/saramazal/ethical-hacking-study/network/members](https://img.shields.io/github/forks/saramazal/ethical-hacking-study?color=navy) &nbsp;
+![https://github.com/saramazal/ethical-hacking-study/stargazers](https://img.shields.io/github/stars/saramazal/ethical-hacking-study?color=fuchsia) &nbsp;
+![https://github.com/saramazal/ethical-hacking-study/watchers](https://img.shields.io/github/watchers/saramazal/ethical-hacking-study?color=teal) &nbsp;
 <br>
 
 ## Table of contents:
