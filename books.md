@@ -1,3 +1,7 @@
 - [Hack Like a GOD](https://www.amazon.com/How-Hack-Like-GOD-scenarios/dp/1521232687)
+- [Linux Basics for Hackers](https://www.amazon.com/dp/1593278551?ref_=pe_27545090_525776650_hsch_vppi_i)
+- [Black Hat Python](https://www.amazon.com/Black-Hat-Python-2nd-Programming/dp/1718501129/ref=d_bmx_dp_r9dgjlrn_sccl_2_5/132-6342047-8829448?pd_rd_w=V8jBl&content-id=amzn1.sym.44f42570-253d-4aa1-bbda-9874f36177cb&pf_rd_p=44f42570-253d-4aa1-bbda-9874f36177cb&pf_rd_r=47JE0F1C4JECZMGQWBSS&pd_rd_wg=NR3Qu&pd_rd_r=3b89a899-94fe-4cbe-9275-ee28b4881afd&pd_rd_i=1718501129&psc=1)
+- [CEH](https://www.amazon.com/Certified-Ethical-Hacker-Guide-Fifth-ebook/dp/B09JPDQJ1G/ref=sr_1_1?keywords=ceh&qid=1674817908&refinements=p_72%3A1248987011&rnid=1248985011&s=digital-text&sr=1-1)
+- [CompTIA+ Security](https://www.amazon.com/CompTIA-Security-Certification-Complete-coverage-ebook/dp/B08LVKZ7HY?ref_=ast_author_dp)
 - [10 Best Ethical Hacking Books for Beginner](https://hackr.io/blog/best-hacking-books)
 - [PROGRAMMING LANGUAGE FOR HACKING](https://drive.google.com/file/d/1t8PHpHLoeYhkkpZ6O5Y9kGwb6KvtwXq0/view)
