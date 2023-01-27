@@ -19,20 +19,28 @@
 
 ## Sites:
 - [TryHackMe](https://tryhackme.com)
-- [Free THM rooms](https://github.com/saramazal/ethical-hacking-study/blob/main/free-thm-rooms.md)
+- [Free TryHackMe rooms](https://github.com/saramazal/ethical-hacking-study/blob/main/free-thm-rooms.md)
+
+- [HackTheBox Academy](https://academy.hackthebox.com/login)
+- [HackTheBox Labs](https://app.hackthebox.com/starting-point)
+
 - [Security Blue Team + free 6 courses](https://securityblue.team/)
-- [HackTheBox](https://academy.hackthebox.com/login)
+
 - [TCM Academy](https://academy.tcm-sec.com/courses)
-- [Professor Messer](https://www.professormesser.com/) 
 - [free TCM Academy Path](https://academy.tcm-sec.com/p/learn-penetration-testing-free)
+
+- [Professor Messer](https://www.professormesser.com/) 
+
+- [OWASP](https://owasp.org/#)
 - [PortSwigger Academy](https://portswigger.net/web-security)
 - [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/)
+
 - [Linux](https://www.linux.org/pages/download/) - 25 popular Linux distributions.
 - [LinuxLearning](https://learning.lpi.org/en/learning-materials/030-100/031/031.1/031.1_01/)
 - [Kali](https://www.kali.org/get-kali/)
 - [Parrot Security Edition](https://parrotsec.org/download/)
-- [OWASP](https://owasp.org/#)
-- [CISCO](https://www.netacad.com/courses/cybersecurity)
+
+- [CISCO Academy](https://www.netacad.com/courses/cybersecurity)
 - [FFC](https://www.freecodecamp.org/learn/information-security/)
 - [hacker101](https://www.hacker101.com/)
 - [PentesterLab](https://pentesterlab.com/)
@@ -106,14 +114,15 @@
 ## [Hacker Methodology](https://github.com/saramazal/ethical-hacking-study/blob/main/hacker-methodology.md)
 
 ## Certification
-- [Become a
-Certified Ethical Hacker (C|EH)
+- [Become a Certified Ethical Hacker (C|EH)
 ](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)
+- [HTB Certified Penetration Testing Specialist&HTB Certified Bug Bounty Hunter](https://academy.hackthebox.com/preview/certifications)
 - [CompTIA Security+](https://securityplus.training/) - "Pass the CompTIA Security+ SY0-601 Certification Exam."
 - [OSCP Certification](https://www.offensive-security.com/courses/pen-200/)
 
 ## [Books&Blogs](https://github.com/saramazal/ethical-hacking-study/blob/main/books.md)
 - [Have you wondered what it takes to be an ethical hacker?](https://www.freecodecamp.org/news/how-to-become-an-ethical-hacker/)
 - [IntelTechniques](https://inteltechniques.com/index.html)
+- [{avidani}](https://avidani.com/) ```HE```
 
 ## [YouTube](https://github.com/saramazal/ethical-hacking-study/blob/main/youtube.md)
