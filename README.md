@@ -9,15 +9,15 @@
 
 ## Table of contents:
 
-* [Sites](#sites)
+* [Courses&Labs](#courseslabs)
 * [Tools](#tools)
-* [Hacker Methodology](#hacker-methodology)
+* [To Learn Languages](to-learn-languages)
 * [Certification](#certification)
 * [Books&Blogs](#booksblogs)
 * [YouTube](#youtube)
 
 
-## Sites:
+## Courses&Labs:
 - [TryHackMe](https://tryhackme.com)
 - [Free TryHackMe rooms](https://github.com/saramazal/ethical-hacking-study/blob/main/free-thm-rooms.md)
 
@@ -35,13 +35,11 @@
 - [PortSwigger Academy](https://portswigger.net/web-security)
 - [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/)
 
-- [Linux](https://www.linux.org/pages/download/) - 25 popular Linux distributions.
-- [LinuxLearning](https://learning.lpi.org/en/learning-materials/030-100/031/031.1/031.1_01/)
-- [Kali](https://www.kali.org/get-kali/)
-- [Parrot Security Edition](https://parrotsec.org/download/)
 
+- [LinuxLearning](https://learning.lpi.org/en/learning-materials/030-100/031/031.1/031.1_01/)
 - [CISCO Academy](https://www.netacad.com/courses/cybersecurity)
-- [FFC](https://www.freecodecamp.org/learn/information-security/)
+- [FreeCodeCamp](https://www.freecodecamp.org/learn/information-security/)
+- [Codecademy](https://www.codecademy.com/catalog/subject/cybersecurity)
 - [hacker101](https://www.hacker101.com/)
 - [PentesterLab](https://pentesterlab.com/)
 - [Guru99-free EH Tutorials](https://www.guru99.com/ethical-hacking-tutorials.html)
@@ -89,8 +87,10 @@
 - [InquestLab](https://labs.inquest.net/)
 
 
+- [Linux](https://www.linux.org/pages/download/) - 25 popular Linux distributions.
 - [Kali](https://www.kali.org/get-kali/) ```OS```
 - [Parrot](https://www.parrotsec.org/)  ```OS```
+
 - [Brave](https://brave.com/download/) ```Browser```
 - [Tor](https://www.torproject.org/download/) ```Browser```
 - [vmware](https://www.vmware.com/)  ```VM```
@@ -113,7 +113,13 @@
 - [any.run](https://any.run/)
 
 
-## [Hacker Methodology](https://github.com/saramazal/ethical-hacking-study/blob/main/hacker-methodology.md)
+## To Learn Languages:
+- [Sololern](https://www.sololearn.com/)
+- [W3schools](https://www.w3schools.com/)
+- [FeeCodeCamp](https://www.freecodecamp.org/)
+- [MDN](https://developer.mozilla.org/en-US/)
+- [Codecademy](https://www.codecademy.com/catalog)
+- [Python Institute](https://pythoninstitute.org/)
 
 ## Certification
 - [Become a Certified Ethical Hacker (C|EH)
