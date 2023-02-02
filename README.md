@@ -12,7 +12,7 @@
 
 * [Courses&Labs](#courseslabs)
 * [Tools](#tools)
-* [To Learn Languages](to-learn-languages)
+* [To Learn Languages](#to-learn-languages)
 * [Certification](#certification)
 * [Books&Blogs](#booksblogs)
 * [YouTube](#youtube)
