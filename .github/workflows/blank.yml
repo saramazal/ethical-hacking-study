@@ -64,7 +64,7 @@ jobs:
 
       - name: update clone.json
         run: |
-          curl https://raw.githubusercontent.com/MShawon/github-clone-count-badge/master/main.py > main.py
+          curl https://raw.githubusercontent.com/saramazal/ethical-hacking-study/master/main.py > main.py
           python3 main.py
 
       - name: Update gist with latest count
@@ -79,7 +79,7 @@ jobs:
           if [ ! -f CLONE.md ]; then
             shields="https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count&url="
             url="https://gist.githubusercontent.com/${{ github.actor }}/${{ steps.set_id.outputs.GIST }}/raw/clone.json"
-            repo="https://github.com/MShawon/github-clone-count-badge"
+            repo="https://github.com/saramazal/ethical-hacking-study/"
             echo ''> CLONE.md
             echo '
             **Markdown**
