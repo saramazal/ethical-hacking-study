@@ -1,19 +1,3 @@
-# This is a basic workflow to help you get started with Actions
-
-name: CI
-
-# Controls when the workflow will run
-on:
-  # Triggers the workflow on push or pull request events but only for the "main" branch
-  push:
-    branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
-
-  # Allows you to run this workflow manually from the Actions tab
-  workflow_dispatch:
-
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
 name: GitHub Clone Count Update Everyday
 
 on:
@@ -37,7 +21,6 @@ jobs:
             -H "Accept: application/vnd.github.v3+json" \
             https://api.github.com/repos/${{ github.repository }}/traffic/clones \
             > clone.json
-
       - name: create gist and download previous count
         id: set_id
         run: |
@@ -61,7 +44,6 @@ jobs:
               echo ::set-output name=GIST::$gist_id
               cp clone.json clone_before.json
           fi
-
       - name: update clone.json
         run: |
           curl https://raw.githubusercontent.com/saramazal/ethical-hacking-study/main/main.py > main.py
