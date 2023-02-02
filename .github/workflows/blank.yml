@@ -64,7 +64,7 @@ jobs:
 
       - name: update clone.json
         run: |
-          curl https://raw.githubusercontent.com/saramazal/ethical-hacking-study/master/main.py > main.py
+          curl https://raw.githubusercontent.com/saramazal/ethical-hacking-study/main/main.py > main.py
           python3 main.py
 
       - name: Update gist with latest count
