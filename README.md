@@ -5,7 +5,7 @@
 ![https://github.com/saramazal/ethical-hacking-study/network/members](https://img.shields.io/github/forks/saramazal/ethical-hacking-study?color=navy) &nbsp;
 ![https://github.com/saramazal/ethical-hacking-study/stargazers](https://img.shields.io/github/stars/saramazal/ethical-hacking-study?color=fuchsia) &nbsp;
 <br>
-[![GitHub Clones](https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count&url=https://gist.githubusercontent.com/saramazal/SECRET_TOKEN/raw/clone.json&logo=github)](https://github.com/repos/saramazal/ethical-hacking-study)
+[![GitHub Clones](https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count&url=https://gist.githubusercontent.com/saramazal/traffic_clones)](https://github.com/repos/saramazal/ethical-hacking-study)
 
 
 ## Table of contents:
