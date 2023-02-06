@@ -1,41 +1,8 @@
 name: GitHub Clone Count Update Everyday
 
-
-GitHub Action Failure Reason
-
-
-mazalsara@gmail.com
-Why github action in repository https://github.com/saramazal/ethical-hacking-study don't work ?
-
-It is difficult to determine the reason why the GitHub Actions in the repository "https://github.com/saramazal/ethical-hacking-study" are not working without further information. To resolve this issue, I would suggest:
-
-Checking the status of the Actions tab for any errors or failures in the workflow.
-Checking the workflow file for syntax errors or incorrect configuration.
-Checking the Actions tab for any required secrets or environment variables that have not been set.
-Checking the repository's dependencies, and ensuring that they are up-to-date.
-If the issue persists, you can reach out to GitHub support for further assistance.
-Remember to also check the repository's documentation and recent changes to see if there have been any updates that might have affected the workflow.
-
-
-
-
-mazalsara@gmail.com
-How to get count of Clones of my repository whit api snd github actions?
-
-You can get the count of clones for a repository by using the GitHub API and GitHub Actions as follows:
-
-First, you will need to obtain a GitHub API token. You can do this by visiting the GitHub Developer Settings and creating a personal access token.
-
-Next, you will need to create a workflow in your repository to retrieve the clone count using the API. To do this, you can create a new file in your repository's .github/workflows directory, with the following contents:
-
-bash
-Copy code
-name: Get clone count
-
 on:
   schedule:
     - cron: "0 0 * * *"
-
 jobs:
   get_clone_count:
     runs-on: ubuntu-latest
@@ -44,9 +11,9 @@ jobs:
     - name: Get clone count
       id: clone_count
       run: |
-        curl -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" https://api.github.com/repos/${{ github.repository }}/traffic/clones | jq '.count'
+        curl -H "Authorization: token ${{ secrets.SECRET_TOKEN }}" https://api.github.com/repos/${{ github.repository }}/traffic/clones | jq '.count'
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        SECRET_TOKEN: ${{ secrets.SECRET_TOKEN }}
         
     - name: Set clone count as a repository metadata
       run: |
