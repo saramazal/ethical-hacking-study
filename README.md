@@ -112,7 +112,7 @@
 
 
 ## To Learn Languages:
-- [Sololern](https://www.sololearn.com/)
+- [Sololearn](https://www.sololearn.com/)
 - [W3schools](https://www.w3schools.com/)
 - [FeeCodeCamp](https://www.freecodecamp.org/)
 - [MDN](https://developer.mozilla.org/en-US/)
