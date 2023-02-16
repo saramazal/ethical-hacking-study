@@ -114,7 +114,7 @@
 ## To Learn Languages:
 - [Sololearn](https://www.sololearn.com/)
 - [W3schools](https://www.w3schools.com/)
-- [FeeCodeCamp](https://www.freecodecamp.org/)
+- [FreeCodeCamp](https://www.freecodecamp.org/)
 - [MDN](https://developer.mozilla.org/en-US/)
 - [Codecademy](https://www.codecademy.com/catalog)
 - [Python Institute](https://pythoninstitute.org/)
