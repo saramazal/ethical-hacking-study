@@ -2,7 +2,7 @@
 
 
  ```
- git clone https://github.com/Exiv2/exiv2.git
+
  ```
 ```
 exiv2 <file.name>
