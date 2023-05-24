@@ -83,7 +83,7 @@
 - [Linux](https://www.linux.org/pages/download/) - 25 popular Linux distributions.
 - [Kali](https://www.kali.org/get-kali/) 
 - [Parrot](https://www.parrotsec.org/)  
-- [BlackArch]() 
+- [BlackArch](https://www.blackarch.org/) 
 
 - [Brave](https://brave.com/download/) ```Browser```
 - [Tor](https://www.torproject.org/download/) ```Browser```
