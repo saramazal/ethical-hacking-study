@@ -126,14 +126,16 @@
 - [Codecademy](https://www.codecademy.com/catalog)
 - [Python Institute](https://pythoninstitute.org/)
 
-## Certification :money_with_wings: :
+## Certification:
+:money_with_wings:
 - [Become a Certified Ethical Hacker (C|EH)
 ](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)
 - [HTB Certified Penetration Testing Specialist&HTB Certified Bug Bounty Hunter](https://academy.hackthebox.com/preview/certifications)
 - [CompTIA Security+](https://securityplus.training/) - "Pass the CompTIA Security+ SY0-601 Certification Exam."
 - [OSCP Certification](https://www.offensive-security.com/courses/pen-200/)
 
-## CTF :triangular_flag_on_post: :
+## CTF:
+:triangular_flag_on_post: 
 
 ## [Books&Blogs](https://github.com/saramazal/ethical-hacking-study/blob/main/books.md)
 - [Have you wondered what it takes to be an ethical hacker?](https://www.freecodecamp.org/news/how-to-become-an-ethical-hacker/)
