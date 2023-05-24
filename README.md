@@ -11,6 +11,7 @@
 * [Tools](#tools)
 * [To Learn Languages](#to-learn-languages)
 * [Certification](#certification)
+* [CTF](#CTF)
 * [Books&Blogs](#booksblogs)
 * [YouTube](#youtube)
 
@@ -130,6 +131,8 @@
 - [HTB Certified Penetration Testing Specialist&HTB Certified Bug Bounty Hunter](https://academy.hackthebox.com/preview/certifications)
 - [CompTIA Security+](https://securityplus.training/) - "Pass the CompTIA Security+ SY0-601 Certification Exam."
 - [OSCP Certification](https://www.offensive-security.com/courses/pen-200/)
+
+## :triangular_flag_on_post: CTF:
 
 ## [Books&Blogs](https://github.com/saramazal/ethical-hacking-study/blob/main/books.md)
 - [Have you wondered what it takes to be an ethical hacker?](https://www.freecodecamp.org/news/how-to-become-an-ethical-hacker/)
