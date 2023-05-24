@@ -128,6 +128,7 @@
 - [any.run](https://any.run/)
 
 ## Code Examples:
+_coming_soon_
 
 
 ## To Learn Languages:
@@ -149,6 +150,7 @@
 
 ## CTF:
 :triangular_flag_on_post: 
+_coming_soon_
 
 ## [Books&Blogs](https://github.com/saramazal/ethical-hacking-study/blob/main/books.md)
 - [Have you wondered what it takes to be an ethical hacker?](https://www.freecodecamp.org/news/how-to-become-an-ethical-hacker/)
