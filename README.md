@@ -117,7 +117,8 @@
 - [any.run](https://any.run/)
 
 
-## To Learn Languages :alien: :
+## To Learn Languages:
+:alien: 
 - [Sololearn](https://www.sololearn.com/)
 - [W3schools](https://www.w3schools.com/)
 - [FreeCodeCamp](https://www.freecodecamp.org/)
