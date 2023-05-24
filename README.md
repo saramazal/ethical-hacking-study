@@ -116,7 +116,7 @@
 - [any.run](https://any.run/)
 
 
-## To Learn Languages:
+## :alien: To Learn Languages:
 - [Sololearn](https://www.sololearn.com/)
 - [W3schools](https://www.w3schools.com/)
 - [FreeCodeCamp](https://www.freecodecamp.org/)
@@ -124,7 +124,7 @@
 - [Codecademy](https://www.codecademy.com/catalog)
 - [Python Institute](https://pythoninstitute.org/)
 
-## Certification
+## :money_with_wings: Certification
 - [Become a Certified Ethical Hacker (C|EH)
 ](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)
 - [HTB Certified Penetration Testing Specialist&HTB Certified Bug Bounty Hunter](https://academy.hackthebox.com/preview/certifications)
@@ -134,6 +134,6 @@
 ## [Books&Blogs](https://github.com/saramazal/ethical-hacking-study/blob/main/books.md)
 - [Have you wondered what it takes to be an ethical hacker?](https://www.freecodecamp.org/news/how-to-become-an-ethical-hacker/)
 - [IntelTechniques](https://inteltechniques.com/index.html)
-- [{avidani}](https://avidani.com/) ```HE```
+
 
 ## [YouTube](https://github.com/saramazal/ethical-hacking-study/blob/main/youtube.md)
