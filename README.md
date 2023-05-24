@@ -76,27 +76,21 @@
 - [Burp Suite Community Edition](https://portswigger.net/burp) 
 - [Postman](https://www.postman.com/) 
 
-  ### :alien: Steganography
+  ### :mag: Steganography:
   [Stego Tools](https://github.com/saramazal/ethical-hacking-study/tree/main/Steganography)
-
-   ### :wrench:
-
-- [NIST](https://nvd.nist.gov/search)
-- [CVE](https://cve.mitre.org/)
-- [Exploit Database](https://www.exploit-db.com/)
-- [Rapid7 -Vulnerability & Exploit Database](https://www.rapid7.com/db/)
-- [InquestLab](https://labs.inquest.net/)
-
-
+  
+  ###  :technologist: OS, Browsers and VMachines: 
 - [Linux](https://www.linux.org/pages/download/) - 25 popular Linux distributions.
-- [Kali](https://www.kali.org/get-kali/) ```OS```
-- [Parrot](https://www.parrotsec.org/)  ```OS```
+- [Kali](https://www.kali.org/get-kali/) 
+- [Parrot](https://www.parrotsec.org/)  
+- [BlackArch]() 
 
 - [Brave](https://brave.com/download/) ```Browser```
 - [Tor](https://www.torproject.org/download/) ```Browser```
 - [vmware](https://www.vmware.com/)  ```VM```
 - [Vbox](https://www.virtualbox.org/) ```VM```
 
+  ### :alembic: Cryptography:
 - [CyberChef](https://cyberchef.org/)
 - [Hash Type Identifier](https://hashes.com/en/tools/hash_identifier)
 - [Hash-identifier](https://gitlab.com/kalilinux/packages/hash-identifier/-/tree/kali/master) 
@@ -106,7 +100,15 @@
 - [Hash.com](https://hashes.com/en/decrypt/hash)
 - [Free Password Hash Cracker](https://crackstation.net/)
 - [HexEdit](https://hexed.it/)
+  
 
+   ### :wrench:
+
+- [NIST](https://nvd.nist.gov/search)
+- [CVE](https://cve.mitre.org/)
+- [Exploit Database](https://www.exploit-db.com/)
+- [Rapid7 -Vulnerability & Exploit Database](https://www.rapid7.com/db/)
+- [InquestLab](https://labs.inquest.net/)
 - [MITRE ATT&CK](https://attack.mitre.org/)
 - [THE UNIFIED KILL CHAIN](https://unifiedkillchain.com/)
 - [VirusTotal](https://www.virustotal.com/gui/file/a2a4a8436da64246ade25c702a6677ebbb14fc2bd0c6f02d2d7b8d2046e59ecb?nocache=1)
