@@ -11,7 +11,7 @@
 * [Tools](#tools)
 * [To Learn Languages](#to-learn-languages)
 * [Certification](#certification)
-* [CTF](#CTF)
+* [CTF](#ctf)
 * [Books&Blogs](#booksblogs)
 * [YouTube](#youtube)
 
