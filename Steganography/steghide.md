@@ -17,8 +17,8 @@ steghide --help
 
 `for extract:`
 ```
-steghide -info <file.name>
+steghide -info <file.jpg>
 ```
 ```
-steghide extract -sf <file.name>
+steghide extract -sf <file.jpg>
 ```
