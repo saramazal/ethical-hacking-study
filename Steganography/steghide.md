@@ -22,3 +22,9 @@ steghide -info <file.jpg>
 ```
 steghide extract -sf <file.jpg>
 ```
+
+
+`extra:`
+```
+for i in $(cat /usr/share/wordlists/rockyou.txt); do echo '[+] Trying ' $i; steghide extract -sf <file.jpg> --passphrase $i; done   
+```
