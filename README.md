@@ -76,7 +76,8 @@
 - [Burp Suite Community Edition](https://portswigger.net/burp) 
 - [Postman](https://www.postman.com/) 
 
-  ### [Steganography](https://github.com/saramazal/ethical-hacking-study/tree/main/Steganography)
+  ### :alien: Steganography
+  [Stego Tools](https://github.com/saramazal/ethical-hacking-study/tree/main/Steganography)
 
    ### :wrench:
 
