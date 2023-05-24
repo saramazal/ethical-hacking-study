@@ -24,7 +24,7 @@ steghide extract -sf <file.jpg>
 ```
 
 
-`extra:`
+`extra / brute-force without passphrase:`
 ```
 for i in $(cat /usr/share/wordlists/rockyou.txt); do echo '[+] Trying ' $i; steghide extract -sf <file.jpg> --passphrase $i; done   
 ```
