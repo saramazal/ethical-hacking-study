@@ -10,6 +10,7 @@ stegcracker -h
 ```
 stegcracker <file> <wordlist>
 ```
+or
 
 ``` 
 stegcracker <file.jpg> /usr/share/wordlists/rockyou.txt
