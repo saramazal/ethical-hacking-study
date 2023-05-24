@@ -9,6 +9,7 @@
 
 * [Courses&Labs](#courseslabs)
 * [Tools](#tools)
+* [Code Examples](#code-examples)
 * [To Learn Languages](#to-learn-languages)
 * [Certification](#certification)
 * [CTF](#ctf)
@@ -93,14 +94,24 @@
 
   ### :alembic: Cryptography:
 - [CyberChef](https://cyberchef.org/)
-- [Hash Type Identifier](https://hashes.com/en/tools/hash_identifier)
 - [Hash-identifier](https://gitlab.com/kalilinux/packages/hash-identifier/-/tree/kali/master) 
+- [Hash.com](https://hashes.com/en/decrypt/hash)
+- [Haiti](https://noraj.github.io/haiti/#/)
+- [Free Password Hash Cracker](https://crackstation.net/)
+- [SHA256](https://sha256.web-max.ca/index.php#enter)
+- [Hash and Unhash](https://md5hashing.net/hash)
+- [Cipher Identifier](https://www.dcode.fr/cipher-identifier)
+- [Base64](https://www.base64decode.org/)
+- [HashCat](https://hashcat.net/wiki/doku.php?id=example_hashes)
+- [Brainfuck](https://www.tutorialspoint.com/execute_brainfk_online.php)
 - [John The Ripper](https://github.com/openwall/john/blob/bleeding-jumbo/doc/INSTALL)
 - [MD5](https://md5.gromweb.com/)
 - [Encode/Decode](https://toolbox.googleapps.com/apps/encode_decode/)
 - [Hash.com](https://hashes.com/en/decrypt/hash)
-- [Free Password Hash Cracker](https://crackstation.net/)
-- [HexEdit](https://hexed.it/)
+- [Cryptii](https://cryptii.com/pipes/caesar-cipher)
+- [Password Recovery Services](https://www.onlinehashcrack.com/)
+- [RSA Tool](https://github.com/ius/rsatool)
+- [ASCII Table](https://www.asciitable.com/)
   
 
    ### :wrench:
@@ -115,6 +126,8 @@
 - [VirusTotal](https://www.virustotal.com/gui/file/a2a4a8436da64246ade25c702a6677ebbb14fc2bd0c6f02d2d7b8d2046e59ecb?nocache=1)
 - [DFIR Report](https://thedfirreport.com/)
 - [any.run](https://any.run/)
+
+## Code Examples:
 
 
 ## To Learn Languages:
