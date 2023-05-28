@@ -12,6 +12,18 @@
  john -h
  ```
  ```
+ john --list=formats
+ ```
+ ```
+ john --format=<hash-format> <hashes.txt>
+ ```
+ 
+ ```
  john --format=<hash-format> --wordlist=/usr/share/wordlists/rockyou.txt <hash_to_crack.txt> 
  ```
+Unshadow  for John
+
+```
+unshadow /path/to/passwd /path/to/shadow > <output-file>
+```    
  
