@@ -1,6 +1,8 @@
+
 ```
 echo bandit0 > 0
 ```
+
 ```
 sshpass -p $(cat 0) ssh bandit0@bandit.labs.overthewire.org -p 2220
 ```
