@@ -127,8 +127,8 @@
 - [DFIR Report](https://thedfirreport.com/)
 - [any.run](https://any.run/)
 
-## Code Examples:
-_coming_soon_
+## [Code Examples](https://github.com/saramazal/ethical-hacking-study/tree/main/Code-examples):
+_inprogress_
 
 
 ## To Learn Languages:
