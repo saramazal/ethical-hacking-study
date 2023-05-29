@@ -1,4 +1,4 @@
-## [Bandit0](https://overthewire.org/wargames/bandit/bandit0.html)
+## [Bandit0-1](https://overthewire.org/wargames/bandit/bandit0.html)
 
 ### The Bandit wargame  can help you to learn and practice security concepts in the form of fun-filled games.
 
