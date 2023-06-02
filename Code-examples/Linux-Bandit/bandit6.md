@@ -22,7 +22,7 @@ cat /var/lib/dpkg/info/bandit7.password
 ```
 exit
 ```
-#### * save password to Bandit/6
+#### * save password to Bandit/7
 ```
 echo [password] > 7
 ```
