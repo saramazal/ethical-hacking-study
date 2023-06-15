@@ -148,7 +148,7 @@ _inprogress_
 - [CompTIA Security+](https://securityplus.training/) - "Pass the CompTIA Security+ SY0-601 Certification Exam."
 - [OSCP Certification](https://www.offensive-security.com/courses/pen-200/)
 
-## CTF:
+## [CTF](https://github.com/saramazal/ethical-hacking-study/tree/main/CTF):
 :triangular_flag_on_post: 
 _coming_soon_
 
