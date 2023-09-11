@@ -79,7 +79,7 @@
 - [Postman](https://www.postman.com/) 
 
   ### :mag: Steganography:
-  [Stego Tools](https://github.com/saramazal/ethical-hacking-study/tree/main/Steganography)
+  [Stego Tools](https://github.com/saramazal/ethical-hacking-study/tree/main/Code-examples/Steganography)
   
   ###  :technologist: OS, Browsers and VMachines: 
 - [Linux](https://www.linux.org/pages/download/) - 25 popular Linux distributions.
