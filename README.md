@@ -1,5 +1,5 @@
 # Ethical Hacking🤺  (_project in progress_)
-🏆 [My TryHackMe Profile](https://tryhackme.com/p/Mazal)
+🏆 [My TryHackMe Profile](https://tryhackme.com/p/maz4l)
 <br>
 <br>
 ![https://github.com/saramazal/ethical-hacking-study/network/members](https://img.shields.io/github/forks/saramazal/ethical-hacking-study?color=navy) &nbsp;
