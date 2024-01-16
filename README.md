@@ -36,7 +36,7 @@
 - [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/)
 
 
-- [LinuxLearning](https://learning.lpi.org/en/learning-materials/030-100/031/031.1/031.1_01/)
+- [LinuxLearning](https://learning.lpi.org/en/learning-materials/010-160/)
 - [CISCO Academy](https://www.netacad.com/courses/cybersecurity)
 - [FreeCodeCamp](https://www.freecodecamp.org/learn/information-security/)
 - [Codecademy](https://www.codecademy.com/catalog/subject/cybersecurity)
