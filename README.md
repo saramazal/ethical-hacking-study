@@ -132,7 +132,7 @@
 ## [Code Examples](https://github.com/saramazal/ethical-hacking-study/tree/main/Code-examples):
 _inprogress_
 
-## [HTB Academy - Walkthroughs]()
+## [HTB Academy-Walkthroughs]()
 
 ## To Learn Languages:
 :alien: 
