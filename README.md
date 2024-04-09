@@ -25,6 +25,7 @@
 - [HackTheBox Labs](https://app.hackthebox.com/starting-point)
 
 - [Security Blue Team + free 6 courses](https://securityblue.team/)
+- [PWN College](https://pwn.college/)
 
 - [TCM Academy](https://academy.tcm-sec.com/courses)
 - [free TCM Academy Path](https://academy.tcm-sec.com/p/learn-penetration-testing-free)
