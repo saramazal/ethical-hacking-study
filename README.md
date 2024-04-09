@@ -10,7 +10,7 @@
 * [Courses&Labs](#courseslabs)
 * [Tools](#tools)
 * [Code Examples](#code-examples)
-* [HTB Academy - Walkthroughs](#htb-academy-walkthroughs)
+* [HTB Academy-Walkthroughs](#htb-academy-walkthroughs)
 * [To Learn Languages](#to-learn-languages)
 * [Certification](#certification)
 * [CTF](#ctf)
