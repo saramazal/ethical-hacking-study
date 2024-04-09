@@ -10,6 +10,7 @@
 * [Courses&Labs](#courseslabs)
 * [Tools](#tools)
 * [Code Examples](#code-examples)
+* [HTB Academy - Walkthroughs](#htb-academy-walkthroughs)
 * [To Learn Languages](#to-learn-languages)
 * [Certification](#certification)
 * [CTF](#ctf)
@@ -131,6 +132,7 @@
 ## [Code Examples](https://github.com/saramazal/ethical-hacking-study/tree/main/Code-examples):
 _inprogress_
 
+## [HTB Academy - Walkthroughs]()
 
 ## To Learn Languages:
 :alien: 
