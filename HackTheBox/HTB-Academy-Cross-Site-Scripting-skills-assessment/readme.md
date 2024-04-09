@@ -21,7 +21,7 @@ Start the server below, make sure you are connected to the VPN, and access the `
 
 ```nano index.php```
 
-<img src="https://github.com/saramazal/ethical-hacking-study/blob/main/HackTheBox/HTB-Academy-Cross-Site-Scripting-skills-assessment/images/HTB-CROSS_SITE-SCRIPTING-XSS-.png" >
+<img src="https://github.com/saramazal/ethical-hacking-study/blob/main/HackTheBox/HTB-Academy-Cross-Site-Scripting-skills-assessment/images/php-code.png" >
 
 ## Let's start your server
 
