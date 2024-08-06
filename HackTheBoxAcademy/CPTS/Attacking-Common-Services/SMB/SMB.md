@@ -14,7 +14,7 @@ smbmap -H $TARGET_IP
 ```
 
 ### What is the password for the username "jason"?
-* Fist Download pwd.list from resources.
+* First, load pwd.list from resources.
 ```
 crackmapexec smb $TARGET_IP -u jason -p pwd.list --local-auth
 ```
