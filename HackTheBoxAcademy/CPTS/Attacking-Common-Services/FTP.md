@@ -24,7 +24,10 @@ medusa -u $USERNAME -P /usr/share/wordlists/rockyou.txt -h $TARGET_IP -M ftp
 ## Questions:
 1. What port is the FTP service running on? 
 
-```sudo nmap -sV -sC $TARGET_IP -Pn```
+```
+sudo nmap -sV -sC $TARGET_IP -Pn
+```
+
 <img src="https://github.com/saramazal/ethical-hacking-study/blob/main/HackTheBoxAcademy/CPTS/Attacking-Common-Services/ftp-nmap-scan.png">
 
 2. What username is available for the FTP server? 
