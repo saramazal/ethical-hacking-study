@@ -28,7 +28,7 @@ medusa -u $USERNAME -P /usr/share/wordlists/rockyou.txt -h $TARGET_IP -M ftp
 sudo nmap -sV -sC $TARGET_IP -Pn
 ```
 
-<img src="https://github.com/saramazal/ethical-hacking-study/blob/main/HackTheBoxAcademy/CPTS/Attacking-Common-Services/ftp-nmap-scan.png">
+<img src="https://github.com/saramazal/ethical-hacking-study/blob/main/HackTheBoxAcademy/CPTS/Attacking-Common-Services/FTP/ftp-nmap-scan.png">
 
 2. What username is available for the FTP server? 
 
