@@ -78,8 +78,13 @@ hydra -L users.list -P passwords.list  ftp://10.129.203.6:2121 -V
 
 3. Use the discovered username with its password to login via SSH and obtain the flag.txt file. Submit the contents as your answer. 
 
+```
 ssh $username@$TARGET_IP
-ls 
-cat flag.txt
+```
 
-HTB{ ATT******_********C3}
+`ls`
+
+`cat flag.txt`
+
+
+## HTB{ ATT******_********C3}
