@@ -21,5 +21,5 @@ medusa -u $USERNAME -P /usr/share/wordlists/rockyou.txt -h $TARGET_IP -M ftp
 
 3. Use the discovered username with its password to login via SSH and obtain the flag.txt file. Submit the contents as your answer. 
 
-## Steps:
+## Solution:
 1. 
