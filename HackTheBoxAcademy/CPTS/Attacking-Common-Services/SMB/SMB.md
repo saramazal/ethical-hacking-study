@@ -53,3 +53,4 @@ ssh -i id_rsa jason@$TARGET_IP
 cat flag.txt
 HTB{SMB_*******_*********9}
 ```
+# [Subscribe for getting more HTB Cubes!](https://referral.hackthebox.com/mzyGKZb)
