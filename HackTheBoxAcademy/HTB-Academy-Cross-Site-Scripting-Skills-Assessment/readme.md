@@ -1,4 +1,4 @@
-# Cross-Site Scripting (XSS)  
+# [Cross-Site Scripting (XSS)](https://academy.hackthebox.com/achievement/badge/1e195a3e-ef45-11ee-b18d-bea50ffe6cb4)
 ## Skills Assessment
 We are performing a Web Application Penetration Testing task for a company that hired you, which just released their new `Security Blog`.
 In our Web Application Penetration Testing plan, we reached the part 
