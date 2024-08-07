@@ -87,4 +87,6 @@ flagvalue
 ----------------------------------------------------------------------------------------------------  
 
 b'HTB{!*l0v3*#4$#!n9_4nd_*******3r}'
+```
+
 # [Subscribe for getting more HTB Cubes!](https://referral.hackthebox.com/mzyGKZb)
