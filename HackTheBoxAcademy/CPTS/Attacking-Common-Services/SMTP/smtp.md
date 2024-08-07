@@ -52,7 +52,7 @@ The password is found:
 ### 5. Access the Email Account
 Use telnet to access the POP3 service and read emails:
 ```
-telnet $TARGET_IP 110
+telnet -l m*****@inlanefreight.htb $TARGET_IP 110
 ```
 Log in with the credentials:
 
