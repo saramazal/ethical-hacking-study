@@ -1,4 +1,4 @@
-## [Attacking FTP](https://academy.hackthebox.com/module/116/section/1165)
+## [Attacking FTP](https://referral.hackthebox.com/mzyGKZb)
 
 # Attacking FTP
 
