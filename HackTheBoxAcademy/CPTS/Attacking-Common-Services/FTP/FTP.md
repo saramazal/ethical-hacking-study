@@ -88,3 +88,6 @@ ssh $username@$TARGET_IP
 
 
 ## HTB{ ATT******_********C3}
+
+# [Subscribe for getting more HTB Cubes!](https://referral.hackthebox.com/mzyGKZb)
+
