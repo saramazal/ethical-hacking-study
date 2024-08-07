@@ -1,7 +1,5 @@
 ## [Attacking FTP](https://referral.hackthebox.com/mzyGKZb)
 
-# Attacking FTP
-
 | Command                                                       | Description                                     |
 |---------------------------------------------------------------|-------------------------------------------------|
 | `ftp 192.168.2.142`                                           | Connecting to the FTP server using the ftp client. |
