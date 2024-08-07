@@ -9,13 +9,6 @@
 | `hydra -l user1 -P /usr/share/wordlists/rockyou.txt ftp://192.168.2.142` | Brute-forcing the FTP service.                     |
 
 
-### Connecting to the FTP server using the ftp client:
-```
-ftp $TARGET_IP
-```
-### Connecting to the FTP server using netcat:
-```
-nc -v $TARGET_IP $PORT
 ```
 ### Brute Forcing the FTP service with Hydra:
 ```
