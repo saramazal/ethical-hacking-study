@@ -11,7 +11,7 @@
 
 ### On TAB A:
 ```
-ssqlclient.py -p 1433 htbdbuser@$TARGET_IP
+mssqlclient.py -p 1433 htbdbuser@$TARGET_IP
 
 Impacket v0.10.0 - Copyright 2022 SecureAuth Corporation
 
