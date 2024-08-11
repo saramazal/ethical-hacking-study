@@ -2,13 +2,13 @@
 
 For aspiring bug bounty hunters, obtaining relevant certifications can enhance credibility, knowledge, and skills. Here are some of the most recommended certifications for bug bounty hunters:
 
-### 0. **HTB Academy Bug Bounty Hunter Path**
+### 0. [**HTB Academy Bug Bounty Hunter Path**](https://referral.hackthebox.com/mzyGKZb) 
 
 - **Provider**: Hack The Box Academy
 - **Description**: Comprehensive path designed for aspiring bug bounty hunters, covering essential techniques and methodologies.
 - **Skills Covered**: Reconnaissance, web application vulnerabilities, exploitation techniques, reporting.
 - **Why It’s Recommended**: Highly practical with a strong focus on real-world scenarios, interactive labs, and a supportive community.
-- **Website**: HTB Academy Bug Bounty Hunter Path
+- **Website**: [HTB Academy Bug Bounty Hunter Path](https://academy.hackthebox.com/path/preview/bug-bounty-hunter)
 
 ### 1. **Offensive Security Certified Professional (OSCP)**
 
