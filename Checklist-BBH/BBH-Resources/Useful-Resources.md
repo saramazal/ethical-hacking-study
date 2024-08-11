@@ -1,0 +1,30 @@
+# Useful Resources
+
+- **OWASP**
+    - **Description**: The Open Web Application Security Project is a nonprofit foundation that works to improve the security of software.
+    - **Website**: [OWASP](https://owasp.org/)
+    - **Notable Work**: OWASP Top Ten, various security projects and tools.
+- **PentesterLab**
+    - **Description**: Provides hands-on labs for learning web penetration testing.
+    - **Website**: [PentesterLab](https://pentesterlab.com/)
+    - **Notable Work**: Interactive labs covering a wide range of vulnerabilities.
+- **Hacker101**
+    - **Description**: Free training platform by HackerOne.
+    - **Website**: [Hacker101](https://www.hacker101.com/)
+    - **Notable Work**: Video tutorials, Capture the Flag (CTF) challenges.
+- **Web Security Academy by PortSwigger**
+    - **Description**: Comprehensive educational resource for web security.
+    - **Website**: Web Security Academy
+    - **Notable Work**: Interactive labs, detailed articles on web vulnerabilities.
+- **Google Gruyere**
+    - **Description**: Web application designed to teach security principles.
+    - **Website**: Google Gruyere
+    - **Notable Work**: Hands-on learning for finding and exploiting vulnerabilities.
+- **Vulnhub**
+    - **Description**: Provides vulnerable virtual machines to practice penetration testing.
+    - **Website**: [Vulnhub](https://www.vulnhub.com/)
+    - **Notable Work**: A wide range of VMs simulating different security challenges.
+- **CTFtime**
+    - **Description**: Aggregates information about Capture the Flag (CTF) competitions.
+    - **Website**: [CTFtime](https://ctftime.org/)
+    - **Notable Work**: Calendar of upcoming CTF events, team rankings, and CTF resources.

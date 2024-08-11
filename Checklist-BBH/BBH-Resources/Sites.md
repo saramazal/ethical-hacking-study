@@ -1,0 +1,20 @@
+- **HackerOne**
+    - **Description**: One of the largest bug bounty platforms, connecting ethical hackers with organizations.
+    - **URL**: [HackerOne](https://www.hackerone.com/)
+    - **Features**: Wide range of programs, strong community, training resources.
+- **Bugcrowd**
+    - **Description**: A popular platform offering both public and private bug bounty programs.
+    - **URL**: [Bugcrowd](https://www.bugcrowd.com/)
+    - **Features**: Diverse programs, crowd match technology, detailed reporting.
+- **Synack**
+    - **Description**: A platform focusing on highly vetted researchers and comprehensive security testing.
+    - **URL**: [Synack](https://www.synack.com/)
+    - **Features**: Invitation-only, advanced analytics, extensive support.
+- **Intigriti**
+    - **Description**: A European-based bug bounty platform with a variety of public and private programs.
+    - **URL**: [Intigriti](https://www.intigriti.com/)
+    - **Features**: Transparent process, strong community engagement, regular challenges.
+- **YesWeHack**
+    - **Description**: Europe's leading bug bounty and VDP platform.
+    - **URL**: [YesWeHack](https://www.yeswehack.com/)
+    - **Features**: Diverse programs, focuses on collaboration and innovation.

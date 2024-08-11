@@ -1,0 +1,24 @@
+# Scanning and Enumeration
+
+- **Port and Service Scanning**
+    - **Tools**: `Nmap`, `masscan`
+    - Identify open ports and running services.
+    - Example command: `nmap -sV -sC -p- <target_ip>`
+- **Vulnerability Scanning**
+    - **Tools**: `Nikto`, `Nessus`, `OpenVAS`
+    - Conduct automated vulnerability scans to identify known issues.
+    - Indentify known vulnerabilites (CVEs)
+    - Example command for Nikto: `nikto -h <target_url>`
+- **Directory and File Enumeration**
+    - **Tools**: `dirb`, `gobuster`, `ffuf`
+    - Identify hidden files, directories, and endpoints.
+    - Example command: `gobuster dir -u <target_url> -w /usr/share/wordlists/dirb/common.txt`
+    - Example command for `ffuf`: `ffuf -w /path/to/wordlist -u http://<target_url>/FUZZ`
+- **Subdomain Enumeration**
+    - **Tools**: `sublist3r`, `amass`, `Subfinder`
+    - Discover subdomains to broaden the attack surface.
+    - Example command for Sublist3r: `sublist3r -d <target_domain>`
+- **Content Discovery**
+    - **Tools**: `ffuf`, `Wayback Machine`, `GitHub`, `Gitrob`
+    - Discover hidden content and sensitive data.
+    - Example command for `ffuf` content discovery: `ffuf -w /path/to/wordlist -u http://<target_url>/FUZZ -e .php,.html,.txt`
