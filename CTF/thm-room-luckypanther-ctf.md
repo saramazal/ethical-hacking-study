@@ -4,7 +4,7 @@
 
 Start by downloading the provided image file.
 
-![luckypanther.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/15271bec-4348-4c6e-b9d6-4883d23792c4/e50dffa6-adb0-4264-8ea9-e97be9f7ff8a/luckypanther.jpg)
+![luckypanther.jpg](https://github.com/saramazal/ethical-hacking-study/blob/main/CTF/luckypanther.jpg)
 
 ## Task 2: Investigate the Image
 
