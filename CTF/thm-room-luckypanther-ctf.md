@@ -1,5 +1,5 @@
-# **Official Write-Up for the Lucky Panther CTF Room**
-
+# Official Write-Up for the Lucky Panther CTF TryHackMe 
+#### luckypantherctf
 ## Task 1: Download the Image
 
 Start by downloading the provided image file.
@@ -131,12 +131,15 @@ GUZ{U!_U4px3e!_l0h_4e3_va_4ur_Q33c_s0e3$g!_P0ate4g$!}
 ```
 
 Using the **Cipher Identifier** tool at [dCode](https://www.dcode.fr/cipher-identifier), we identify it as a ROT13 cipher.
+![image.png](https://github.com/saramazal/ethical-hacking-study/blob/main/CTF/rot13-1.png)
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/15271bec-4348-4c6e-b9d6-4883d23792c4/c407a270-a7e8-4681-b086-66b6bc5d2240/image.png)
+click on ROT-13 Cipher and decrypt srting:
+
+![image.png](https://github.com/saramazal/ethical-hacking-study/blob/main/CTF/rot13-2.png)
 
 We can decode it directly using ROT13, or by using [CyberChef](https://cyberchef.org/) with the ROT13 function.
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/15271bec-4348-4c6e-b9d6-4883d23792c4/1c8123e1-2acb-4151-9255-ca84ac8db808/image.png)
+**![image.png](https://github.com/saramazal/ethical-hacking-study/blob/main/CTF/rot13.png)
 
 **Answer:** `THM{H!_H4ck3r!_y0u_4r3_in_4he_D33p_f0r3$t!_C0ngr4t$!}`
 
