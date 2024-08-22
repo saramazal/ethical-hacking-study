@@ -1,4 +1,4 @@
-# Official Write-Up for the Lucky Panther CTF TryHackMe 
+# [Official Write-Up for the Lucky Panther CTF TryHackMe Room](https://tryhackme.com/r/room/luckypantherctf)
 #### luckypantherctf
 ## Task 1: Download the Image
 
@@ -10,9 +10,18 @@ Start by downloading the provided image file.
 
 ### Question 1: What Did You Find in the Picture?
 
-**How:**
+To get started, you can try using online tools. Such as: aperisolve , stegano … . But I’ll skip this part and move on to the terminal.
 
-First, use the [steghide](https://www.kali.org/tools/steghide/) tool to analyze the image:
+Just now let’s try commands:
+
+```
+file
+strings
+exiv2 <file.name>
+binwalk -e <file.name>
+```
+
+And now closer to the point, use the [steghide](https://www.kali.org/tools/steghide/) tool to analyze the image:
 
 ```bash
 steghide info luckypanther.jpg
