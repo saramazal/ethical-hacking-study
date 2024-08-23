@@ -1,5 +1,5 @@
 # Official Write-Up for the [Lucky Panther CTF TryHackMe Room](https://tryhackme.com/r/room/luckypantherctf)
-#### code: `luckypantherctf`
+#### You can also join this room by going to My Rooms page and entering Code: `luckypantherctf`
 ## Task 1: Download the Image
 
 Start by downloading the provided image file.
