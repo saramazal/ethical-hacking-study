@@ -150,9 +150,14 @@ _inprogress_
 - [Become a Certified Ethical Hacker (C|EH)
 ](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)
 
+- [INE Security](https://security.ine.com/)
+
 - [HTB Certified Penetration Testing Specialist&HTB Certified Bug Bounty Hunter](https://academy.hackthebox.com/preview/certifications)
 
 - [CompTIA Security+](https://securityplus.training/) - "Pass the CompTIA Security+ SY0-601 Certification Exam."
+
+- [TCM PNPT](https://certifications.tcm-sec.com/pnpt/)
+
 - [OSCP Certification](https://www.offensive-security.com/courses/pen-200/)
 
 ## [CTF](https://github.com/saramazal/ethical-hacking-study/tree/main/CTF):
