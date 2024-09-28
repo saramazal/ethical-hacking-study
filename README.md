@@ -142,6 +142,8 @@ _inprogress_
 - [MDN](https://developer.mozilla.org/en-US/)
 - [Codecademy](https://www.codecademy.com/catalog)
 - [Python Institute](https://pythoninstitute.org/)
+- [LeetCode](https://leetcode.com/)
+- [Codewars](https://www.codewars.com/)
 
 ## Certification:
 :money_with_wings:
