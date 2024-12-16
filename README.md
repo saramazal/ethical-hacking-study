@@ -10,7 +10,6 @@
 * [Courses&Labs](#courseslabs)
 * [Tools](#tools)
 * [Code Examples](#code-examples)
-* [HTB Academy-Walkthroughs](#htb-academy-walkthroughs)
 * [To Learn Languages](#to-learn-languages)
 * [Certification](#certification)
 * [CTF](#ctf)
@@ -132,7 +131,6 @@
 ## [Code Examples](https://github.com/saramazal/ethical-hacking-study/tree/main/Code-examples):
 _inprogress_
 
-## [HTB Academy-Walkthroughs](https://github.com/saramazal/ethical-hacking-study/tree/main/HackTheBoxAcademy)
 
 ## To Learn Languages:
 :alien: 
@@ -153,8 +151,6 @@ _inprogress_
 - [INE Security](https://security.ine.com/)
 
 - [HTB Certified Penetration Testing Specialist&HTB Certified Bug Bounty Hunter](https://academy.hackthebox.com/preview/certifications)
-
-- [CompTIA Security+](https://securityplus.training/) - "Pass the CompTIA Security+ SY0-601 Certification Exam."
 
 - [TCM PNPT](https://certifications.tcm-sec.com/pnpt/)
 
