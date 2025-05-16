@@ -24,7 +24,7 @@
 - [HackTheBox Academy](https://academy.hackthebox.com/login)
 - [HackTheBox Labs](https://app.hackthebox.com/starting-point)
 
-- [Security Blue Team: Blue Team Junior Analyst track](https://www.securityblue.team/courses/blue-team-junior-analyst-pathway-bundle)
+- [Security Blue Team: Blue Team Junior Analyst track. Free](https://www.securityblue.team/courses/blue-team-junior-analyst-pathway-bundle)
 - [Security Blue Team: Introduction to Pentesting.  Free](https://www.securityblue.team/courses/introduction-to-penetration-testing#domains)
 - [PWN College](https://pwn.college/)
 
