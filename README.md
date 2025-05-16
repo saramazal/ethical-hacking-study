@@ -25,6 +25,7 @@
 - [HackTheBox Labs](https://app.hackthebox.com/starting-point)
 
 - [Security Blue Team + free 6 courses](https://securityblue.team/)
+- [SecurityBlueTeam: Introduction to Pentesting.  Free](https://www.securityblue.team/courses/introduction-to-penetration-testing#domains)
 - [PWN College](https://pwn.college/)
 
 - [TCM Academy](https://academy.tcm-sec.com/courses)
